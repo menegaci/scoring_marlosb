@@ -1,0 +1,6 @@
+data/
+notebooks/
+models/
+scoring/
+.vscode/
+__pycache__/
